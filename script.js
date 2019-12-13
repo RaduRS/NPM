@@ -1,1 +1,2 @@
-ECHO is on.
+alert("hi")
+alert("how are you")
